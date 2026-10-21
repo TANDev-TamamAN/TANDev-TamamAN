@@ -1,76 +1,81 @@
-# ⚡ Welcome to My Cyber Space! 🚀
+# EXECUTIVE BRIEF // TECH PROFILE
 
-<div align="center">
-  <img src="https://demolab.com!+👋;Self-Taught+Developer;Turning+Logic+Into+Cool+Projects" alt="Typing SVG" />
-</div>
+## 👤 Ringkasan Eksekutif
+Saya adalah seorang **Software Developer** berusia **18 tahun** dengan spesialisasi pada rekayasa logika web dinamis, *computational logic*, dan arsitektur visual berbasis performa tinggi. Fokus utama saya terletak pada pengembangan sistem interaktif, optimasi algoritma sisi klien, dan eksplorasi berkelanjutan terhadap teknologi modern.
 
-<p align="center">
-  <img src="https://shields.io" alt="Age">
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="Focus">
-</p>
-
----
-
-### 👨‍💻 About Me
-
-<samp>
-┌── [tandev@github] ── 💻
-<br>
-├── 🚀 <b>Mission:</b> Exploring complex software development, mathematical logic, and interactive mechanics.
-<br>
-├── 🛠️ <b>Learning Style:</b> 100% Self-Taught through trial, error, and pure curiosity.
-<br>
-└── ⚡ <b>Motto:</b> <code>while(alive) { code(); }</code>
-</samp>
+```ini
+[Identitas Profesional]
+Nama Lengkap  : Tamam Ainun Naim
+Entitas Kode  : TANDev / TANDev-TamaMAN
+Kata Ganti    : He / Him
+Kompetensi    : Rekayasa Perangkat Lunak, Game Engine Kustom, Manajemen Logika Kompleks
+```
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Matriks Kapabilitas Teknis
 
-<p align="left">
-  <!-- Python -->
-  <a href="https://python.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="python" width="45" height="45"/>
-  </a> &nbsp;
-  <!-- JavaScript -->
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="javascript" width="45" height="45"/>
-  </a> &nbsp;
-  <!-- HTML5 -->
-  <a href="https://w3.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="html5" width="45" height="45"/>
-  </a> &nbsp;
-  <!-- CSS3 -->
-  <a href="https://w3.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="css3" width="45" height="45"/>
-  </a> &nbsp;
-  <!-- Git -->
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="git" width="45" height="45"/>
-  </a>
-</p>
+### Pengembangan Web & Mesin Grafis (Core)
+*   **JavaScript Murni & HTML5 Canvas:** Implementasi rendering grafis 2D real-time, optimalisasi performa frame rate, matematika vektor untuk pergerakan objek, dan pengembangan kecerdasan buatan (AI) otonom pada sisi klien.
+*   **Struktur Web Modern:** Perancangan arsitektur antarmuka yang bersih, responsif, dan berbasis aksesibilitas tinggi menggunakan HTML5 dan CSS3.
+
+### Komputasi Sisi Server & Otomasi
+*   **Python:** Pengembangan skrip automasi, pemrosesan logika data tingkat lanjut, serta penulisan kode backend yang modular dan mudah dirawat (*maintainable*).
+
+### Manajemen Proyek & Infrastruktur Kode
+*   **Git Ecosystem:** Implementasi kontrol versi tingkat lanjut, dokumentasi repositori yang terstruktur, dan manajemen siklus hidup pengembangan perangkat lunak (SDLC).
 
 ---
 
-### 🟩 3D Contribution Graph
+## 📁 Portofolio Repositori & Spesifikasi Proyek
 
-<p align="center">
-  <img src="https://vercel.app" alt="TANDev's 3D Contribution Graph" />
-</p>
+### 📐 Rekayasa Mesin Game & Simulasi Dinamis
+
+```yaml
+Proyek: Laga-Cacing-TANDev
+Jenis: Sistem Pertempuran Arena Multi-Entitas (.io)
+Teknologi: HTML5 Canvas, Pure JavaScript
+Fitur Utama:
+  - Algoritma AI Bots yang agresif dan responsif
+  - Pengelolaan state permainan secara real-time
+  - Sistem leaderboard dinamis
+  - Optimalisasi rendering visual berbasis neon lewat direct pixel manipulation
+```
+
+```yaml
+Proyek: Neo-Maze-Engine-by-TANDev
+Jenis: Mesin Labirin Modular Dinamis
+Teknologi: HTML5 Canvas, Pure JavaScript
+Fitur Utama:
+  - Desain algoritma navigasi labirin kompleks untuk elemen strategi & aksi
+  - Penanganan input pengguna yang presisi
+  - Arsitektur modular yang memisahkan logika mekanik dengan representasi visual
+```
+
+```yaml
+Proyek: Neon-Worm-Game-TAN
+Jenis: Visualisasi Pergerakan Berbasis Web
+Teknologi: HTML5 Canvas, Pure JavaScript
+Fitur Utama:
+  - Implementasi sistem pergerakan berbasis rantai (kinematika terbalik sederhana)
+  - Animasi entitas yang halus dengan konsumsi memori minimum pada browser
+```
+
+### 📄 Dokumentasi Inti
+
+```yaml
+Proyek: TANDev-cmyk
+Jenis: Repositori Konfigurasi Sentral
+Deskripsi: Standarisasi dokumentasi, arsitektur profil, dan manajemen identitas profesional TANDev.
+```
 
 ---
 
-### 📊 My GitHub Stats
+## 🎯 Fokus Riset & Filosofi Pengembangan
+Dalam setiap baris kode yang ditulis, saya memprioritaskan **efisiensi memori, kebersihan arsitektur kode (clean code), dan skalabilitas sistem**. Saya percaya bahwa batasan teknologi bukanlah penghalang, melainkan ruang untuk melahirkan inovasi melalui logika yang terstruktur.
 
-<p align="left">
-  <img src="https://vercel.app" alt="TANDev's GitHub stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Langs" height="180px" />
-</p>
-
-<p align="left">
-  <img src="https://herokuapp.com" alt="GitHub Streak" height="180px"/>
-</p>
-
----
-
+```javascript
+while(alive) {
+    code();
+}
+```
