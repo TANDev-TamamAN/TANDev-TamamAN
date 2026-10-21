@@ -27,13 +27,32 @@ Kompetensi    : Rekayasa Perangkat Lunak, Game Engine Kustom, Manajemen Logika K
 
 ---
 
+## 🔬 Standar Arsitektur & Bumbu Rahasia Kode
+Dalam mengeksekusi proyek berbasis performa, saya menerapkan standar arsitektur internal untuk memastikan efisiensi kode berada pada level maksimal:
+
+```dan
+# 1. Zero-Dependency Canvas Rendering
+Mengurangi overhead dengan menghindari library pihak ketiga. Semua rendering grafis
+dan kalkulasi koordinat ditangani langsung via native API untuk menjamin kestabilan 60 FPS.
+
+# 2. Heuristic AI & State Management
+Membangun bot cerdas menggunakan pendekatan heuristik sederhana berbasis jarak
+dan target prediktif, dipadukan dengan pemisahan mutlak antara State data dan Visual.
+
+# 3. Memory & Resource Optimization
+Penerapan object pooling (daur ulang objek) dan meminimalkan garbage collection
+pada loop utama aplikasi untuk mencegah terjadinya micro-stuttering pada browser.
+```
+
+---
+
 ## 📁 Portofolio Repositori & Spesifikasi Proyek
 
 ### 📐 Rekayasa Mesin Game & Simulasi Dinamis
 
 ```yaml
 Proyek: Laga-Cacing-TANDev
-Jenis: Sistem Pertempuran Arena Multi-Entitas (.io)
+Jenis: Mesin Pertempuran Arena Multi-Entitas (.io)
 Teknologi: HTML5 Canvas, Pure JavaScript
 Fitur Utama:
   - Algoritma AI Bots yang agresif dan responsif
