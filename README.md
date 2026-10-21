@@ -1,14 +1,31 @@
-# EXECUTIVE BRIEF // TECH PROFILE
+# 
+
+```text
+ ████████╗ █████╗ ███╗   ██╗██████╗ ███████╗██╗   ██╗
+ ╚══██╔══╝██╔══██╗████╗  ██║██╔══██╗██╔════╝██║   ██║
+    ██║   ███████║██╔██╗ ██║██║  ██║█████╗  ██║   ██║
+    ██║   ██╔══██║██║╚██╗██║██║  ██║██╔══╝  ╚██╗ ██╔╝
+    ██║   ██║  ██║██║ ╚████║██████╔╝███████╗ ╚████╔╝ 
+    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝  ╚═══╝  
+ ── [ SOFTWARE DEVELOPER // RE-ENGINEERING COMPUTE ] ──
+```
+
+```unix
+> STATUS: ACTIVE
+> LOGIC : HIGH-PERFORMANCE RENDERER & INTERACTIVE LOGIC
+> ENGINE: 60 FPS ZERO-DEPENDENCY CLIENT-SIDE ARTIFACTS
+```
 
 ## 👤 Ringkasan Eksekutif
 Saya adalah seorang **Software Developer** berusia **18 tahun** dengan spesialisasi pada rekayasa logika web dinamis, *computational logic*, dan arsitektur visual berbasis performa tinggi. Fokus utama saya terletak pada pengembangan sistem interaktif, optimasi algoritma sisi klien, dan eksplorasi berkelanjutan terhadap teknologi modern.
 
 ```ini
-[Identitas Profesional]
-Nama Lengkap  : Tamam Ainun Naim
-Entitas Kode  : TANDev / TANDev-TamaMAN
-Kata Ganti    : He / Him
-Kompetensi    : Rekayasa Perangkat Lunak, Game Engine Kustom, Manajemen Logika Kompleks
+┌─────────────────────────[ SYSTEM ARCHIVES ]──────────────────────────┐
+  Nama Lengkap  : Tamam Ainun Naim
+  Entitas Kode  : TANDev / TANDev-TamaMAN
+  Kata Ganti    : He / Him
+  Kompetensi    : Software Engineering, Custom Game Engines, Core Logic
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
