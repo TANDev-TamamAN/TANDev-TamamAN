@@ -22,7 +22,7 @@ Saya adalah seorang **Software Developer** berusia **18 tahun** dengan spesialis
 ```ini
 ┌─────────────────────────[ SYSTEM ARCHIVES ]──────────────────────────┐
   Nama Lengkap  : Tamam Ainun Naim
-  Entitas Kode  : TANDev / TANDev-TamaMAN
+  Entitas Kode  : TANDev / TANDev-TamamAN
   Kata Ganti    : He / Him
   Kompetensi    : Software Engineering, Custom Game Engines, Core Logic
 └──────────────────────────────────────────────────────────────────────┘
