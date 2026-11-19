@@ -100,7 +100,7 @@ Fitur Utama:
 ### 📄 Dokumentasi Inti
 
 ```yaml
-Proyek: TANDev-cmyk
+Proyek: TANDev-TamamAN
 Jenis: Repositori Konfigurasi Sentral
 Deskripsi: Standarisasi dokumentasi, arsitektur profil, dan manajemen identitas profesional TANDev.
 ```
