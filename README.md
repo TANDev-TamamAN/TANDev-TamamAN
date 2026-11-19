@@ -17,7 +17,7 @@
 ```
 
 ## 👤 Ringkasan Eksekutif
-Saya adalah seorang **Software Developer** berusia **18 tahun** dengan spesialisasi pada rekayasa logika web dinamis, *computational logic*, dan arsitektur visual berbasis performa tinggi. Fokus utama saya terletak pada pengembangan sistem interaktif, optimasi algoritma sisi klien, dan eksplorasi berkelanjutan terhadap teknologi modern.
+Saya adalah seorang **Software Developer** berusia dengan spesialisasi pada rekayasa logika web dinamis, *computational logic*, dan arsitektur visual berbasis performa tinggi. Fokus utama saya terletak pada pengembangan sistem interaktif, optimasi algoritma sisi klien, dan eksplorasi berkelanjutan terhadap teknologi modern.
 
 ```ini
 ┌─────────────────────────[ SYSTEM ARCHIVES ]──────────────────────────┐
